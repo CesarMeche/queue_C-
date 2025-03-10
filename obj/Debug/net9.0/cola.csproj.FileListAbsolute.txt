@@ -1,0 +1,14 @@
+c:\Users\Peptobismol\Desktop\c#\cola\bin\Debug\net9.0\cola.exe
+C:\Users\Peptobismol\Desktop\c#\cola\bin\Debug\net9.0\cola.deps.json
+C:\Users\Peptobismol\Desktop\c#\cola\bin\Debug\net9.0\cola.runtimeconfig.json
+c:\Users\Peptobismol\Desktop\c#\cola\bin\Debug\net9.0\cola.dll
+c:\Users\Peptobismol\Desktop\c#\cola\bin\Debug\net9.0\cola.pdb
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.AssemblyInfoInputs.cache
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.AssemblyInfo.cs
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.csproj.CoreCompileInputs.cache
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.dll
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\refint\cola.dll
+c:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.pdb
+C:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\cola.genruntimeconfig.cache
+C:\Users\Peptobismol\Desktop\c#\cola\obj\Debug\net9.0\ref\cola.dll
